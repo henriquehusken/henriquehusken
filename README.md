@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤓 Nerd since I was a little kid, professional in accounting transitioning to the programming field, which I have always been passionate about<br>💻I'm currently learning Python and JavaScript
+🤓 Nerd since I was a little kid, professional in accounting transitioning to the programming field, which I have always been passionate about.<br>💻I'm currently learning Python and JavaScript
 
 
 ## 🌐 Socials:
